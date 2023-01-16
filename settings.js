@@ -123,15 +123,15 @@ global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⭔'
 global.mess = {
    sukses: '🤗Done, Oke Desu~',
-   admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-   botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-   owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-   group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-   private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
-   bot: 'Fitur Khusus Pengguna Nomor Bot',
-   errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-   wait: '⏳ Sedang Di Proses',
-   lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
+   admin: 'This command can only be used by admins!',
+   botAdmin: 'This command can only be used when the bot becomes admin!',
+   owner: 'This command can only be used by the owner! !',
+   group: 'This command can only be used in groups !',
+   private: 'This command can only be used in private!',
+   bot: 'Bot Number User Specific Features',
+   errtoimg: 'Sorry Currently Not Supporting Gif Sticker!',
+   wait: '⏳ Currently Processing',
+   lockCmd: 'Feature Not Enabled By Owner!',
    example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
